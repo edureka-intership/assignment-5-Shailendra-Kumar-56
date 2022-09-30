@@ -1,4 +1,4 @@
-const Restaurants = require('../Models/restaurants.json');
+const Restaurants = require('../models/restaurants.json');
 
 exports.getRestaurantsByCity = (req, res) => {
     const {city} = req.params;
