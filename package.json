@@ -1,0 +1,25 @@
+{
+  "name": "assignment-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-5-saillike.git"
+  },
+  "author": "Shailendra kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-5-saillike/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-5-saillike#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.20"
+  }
+}
